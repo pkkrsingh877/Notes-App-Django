@@ -1,4 +1,15 @@
+# Ignore virtual environment
 .venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Django app specific settings file
 backend/backend/.env
+
+# Ignore Django app specific cached files
 backend/backend/__pycache__/
+
+# Ignore any changes to Django settings.py file
 backend/backend/settings.py
