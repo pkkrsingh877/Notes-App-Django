@@ -1,5 +1,4 @@
 .venv/
 backend/backend/.env
 backend/backend/__pycache__/
-.gitignore/
-backend/backend/settings.py/
+backend/backend/settings.py
