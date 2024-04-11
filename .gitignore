@@ -1,0 +1,5 @@
+.venv/
+backend/.env
+backend/__pycache__/
+.gitignore/
+backend/backend/settings.py/
